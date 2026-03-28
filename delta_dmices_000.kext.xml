@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventFilter windowSize="671:492">
+	<event type="mouseevent">
+		<time>12:05:21:164</time>
+		<objectClass>QAction</objectClass>
+		<objectName>actionRegions_Contours_Visible</objectName>
+		<objectText>Region Contours Visible</objectText>
+		<objectPath>/actionRegions_Contours_Visible</objectPath>
+		<action>menuclick</action>
+	</event>
+	<event type="wheelevent">
+		<time>12:05:43:327</time>
+		<objectClass>QTableWidget</objectClass>
+		<objectName>tableWidget</objectName>
+		<objectText></objectText>
+		<objectPath>MainWindow/CSeriesSelectionDialog/tableWidget</objectPath>
+		<mouseButton>middle</mouseButton>
+		<action>rolldown</action>
+		<rollCount>-10</rollCount>
+	</event>
+	<event type="wheelevent">
+		<time>12:05:43:506</time>
+		<objectClass>QTableWidget</objectClass>
+		<objectName>tableWidget</objectName>
+		<objectText></objectText>
+		<objectPath>MainWindow/CSeriesSelectionDialog/tableWidget</objectPath>
+		<mouseButton>middle</mouseButton>
+		<action>rollup</action>
+		<rollCount>10</rollCount>
+	</event>
+	<event type="mouseevent">
+		<time>12:05:44:137</time>
+		<objectClass>QPushButton</objectClass>
+		<objectName></objectName>
+		<objectText>Cancel</objectText>
+		<objectPath>MainWindow/CSeriesSelectionDialog/buttonBox</objectPath>
+		<mouseButton>left</mouseButton>
+		<action>click</action>
+		<position>527:419</position>
+	</event>
+	<event type="mouseevent">
+		<time>12:05:44:489</time>
+		<objectClass>QAction</objectClass>
+		<objectName>actionLoad_Patient_Dicom_data</objectName>
+		<objectText>Import Patient DICOM Data...</objectText>
+		<objectPath>MainWindow/mainToolBar/actionLoad_Patient_Dicom_data</objectPath>
+		<action>menuclick</action>
+	</event>
+	<event type="mouseevent">
+		<time>12:05:48:937</time>
+		<objectClass>QPushButton</objectClass>
+		<objectName></objectName>
+		<objectText></objectText>
+		<objectPath>MainWindow//qt_msgbox_buttonbox</objectPath>
+		<mouseButton>left</mouseButton>
+		<action>click</action>
+		<position>554:306</position>
+	</event>
+	<event type="mouseevent">
+		<time>12:05:54:221</time>
+		<objectClass>QPushButton</objectClass>
+		<objectName></objectName>
+		<objectText>OK</objectText>
+		<objectPath>MainWindow/CSeriesSelectionDialog/buttonBox</objectPath>
+		<mouseButton>left</mouseButton>
+		<action>click</action>
+		<position>603:424</position>
+	</event>
+	<event type="mouseevent">
+		<time>12:05:55:067</time>
+		<objectClass>QPushButton</objectClass>
+		<objectName></objectName>
+		<objectText>OK</objectText>
+		<objectPath>MainWindow/CSeriesSelectionDialog//qt_msgbox_buttonbox</objectPath>
+		<mouseButton>left</mouseButton>
+		<action>click</action>
+		<position>434:291</position>
+	</event>
+	<event type="mouseevent">
+		<time>12:05:56:703</time>
+		<objectClass>QAction</objectClass>
+		<objectName>actionLoad_Patient_Dicom_data</objectName>
+		<objectText>Import Patient DICOM Data...</objectText>
+		<objectPath>MainWindow/mainToolBar/actionLoad_Patient_Dicom_data</objectPath>
+		<action>menuclick</action>
+	</event>
+	<event type="mouseevent">
+		<time>12:05:57:073</time>
+		<objectClass>QAction</objectClass>
+		<objectName>actionExit</objectName>
+		<objectText>Exit</objectText>
+		<objectPath>MainWindow/mainToolBar/actionExit</objectPath>
+		<action>menuclick</action>
+	</event>
+</eventFilter>
